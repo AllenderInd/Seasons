@@ -16,3 +16,6 @@ This game was made in partial fulfillment of the course GDD 325 at the Universit
 It is based on a code base originally forked from the [phaser-es6-webpack](https://github.com/lean/phaser-es6-webpack)
 
 Justin Schotz- Additional Artist
+
+# Note
+The Assets folder is too big to add to this instance of the game
